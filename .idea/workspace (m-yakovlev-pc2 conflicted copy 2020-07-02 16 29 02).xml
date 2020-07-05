@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:Block_1" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7bbb58e4-5341-46b2-84e6-c0a241276bd6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1e4QxlPDFOkaOKKqE3Xk9NN9IQ6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="NewWatcherDialog.advanced.open" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="C:/Ruby27-x64/bin/scss.bat" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:9000/HTML5CSS3_FinalLayout/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7bbb58e4-5341-46b2-84e6-c0a241276bd6" name="Default Changelist" comment="" />
+      <created>1593578633420</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593578633420</updated>
+      <workItem from="1593578636859" duration="3181000" />
+      <workItem from="1593582551236" duration="15865000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="Block_1" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2292" y="353" width="718" height="333" key="#File_Watchers" timestamp="1593581823106">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2292" y="353" width="718" height="333" key="#File_Watchers/1920.0.1920.1040/-1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1593581823106" />
+    <state x="2199" y="341" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1593580040322">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2199" y="341" key="#com.intellij.ide.macro.MacrosDialog/1920.0.1920.1040/-1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1593580040322" />
+    <state x="2087" y="297" width="664" height="679" key="EditFileWatcherDialog" timestamp="1593581821696">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2087" y="297" width="664" height="679" key="EditFileWatcherDialog/1920.0.1920.1040/-1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1593581821696" />
+    <state x="2199" y="391" key="FileChooserDialogImpl" timestamp="1593580663044">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2199" y="391" key="FileChooserDialogImpl/1920.0.1920.1040/-1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1593580663044" />
+    <state width="914" height="344" key="GridCell.Tab.0.bottom" timestamp="1593673220026">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="344" key="GridCell.Tab.0.bottom/1920.0.1920.1040/-1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1593673220026" />
+    <state width="914" height="344" key="GridCell.Tab.0.center" timestamp="1593673220026">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="344" key="GridCell.Tab.0.center/1920.0.1920.1040/-1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1593673220026" />
+    <state width="914" height="344" key="GridCell.Tab.0.left" timestamp="1593673220026">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="344" key="GridCell.Tab.0.left/1920.0.1920.1040/-1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1593673220026" />
+    <state width="914" height="344" key="GridCell.Tab.0.right" timestamp="1593673220026">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="344" key="GridCell.Tab.0.right/1920.0.1920.1040/-1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1593673220026" />
+    <state width="914" height="344" key="GridCell.Tab.1.bottom" timestamp="1593673220026">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="344" key="GridCell.Tab.1.bottom/1920.0.1920.1040/-1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1593673220026" />
+    <state width="914" height="344" key="GridCell.Tab.1.center" timestamp="1593673220026">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="344" key="GridCell.Tab.1.center/1920.0.1920.1040/-1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1593673220026" />
+    <state width="914" height="344" key="GridCell.Tab.1.left" timestamp="1593673220026">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="344" key="GridCell.Tab.1.left/1920.0.1920.1040/-1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1593673220026" />
+    <state width="914" height="344" key="GridCell.Tab.1.right" timestamp="1593673220026">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="344" key="GridCell.Tab.1.right/1920.0.1920.1040/-1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1593673220026" />
+    <state width="914" height="344" key="GridCell.Tab.2.bottom" timestamp="1593673220027">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="344" key="GridCell.Tab.2.bottom/1920.0.1920.1040/-1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1593673220027" />
+    <state width="914" height="344" key="GridCell.Tab.2.center" timestamp="1593673220027">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="344" key="GridCell.Tab.2.center/1920.0.1920.1040/-1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1593673220027" />
+    <state width="914" height="344" key="GridCell.Tab.2.left" timestamp="1593673220027">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="344" key="GridCell.Tab.2.left/1920.0.1920.1040/-1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1593673220027" />
+    <state width="914" height="344" key="GridCell.Tab.2.right" timestamp="1593673220027">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="344" key="GridCell.Tab.2.right/1920.0.1920.1040/-1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1593673220027" />
+    <state x="1920" y="164" key="SettingsEditor" timestamp="1593579903543">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1920" y="164" key="SettingsEditor/1920.0.1920.1040/-1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1593579903543" />
+    <state x="1999" y="252" key="Vcs.Push.Dialog.v2" timestamp="1593578917141">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1999" y="252" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/-1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1593578917141" />
+    <state x="2113" y="253" width="587" height="534" key="find.popup" timestamp="1593674510480">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2113" y="253" width="587" height="534" key="find.popup/1920.0.1920.1040/-1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1593674510480" />
+  </component>
+</project>
